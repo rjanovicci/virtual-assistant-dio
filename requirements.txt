@@ -1,0 +1,9 @@
+gTTS
+SpeechRecognition
+pyaudio
+pyttsx3
+youtube-search
+youtube-search-python 
+pytube 
+pydub 
+ffmpeg-python
